@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T09:28:48.605Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="O0I8vVIhIhQ5PKTZVteB" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-22T11:53:16.542Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6.1 Safari/605.1.15" etag="gdyobei_MAxRlmvbIkPb" version="20.2.6" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1298" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1294" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -9,7 +9,7 @@
             <mxGeometry x="840" y="14" width="105" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="EMF_EventB&#xa;(%=this.&#39;dev_major&#39;%.%=this.&#39;dev_minor&#39;%.0 --&amp;gt; 7.0.0)" placeholders="1" rel_major="6" rel_minor="0" rel_service="0" dev_major="6" dev_minor="1" dev_service="1" lucidchartObjectId="fNpQgL.Gv-xd" id="gXJeCOJqX6-XGzdC3xa7-3">
+        <UserObject label="EMF Event-B &lt;br&gt;(6.2.0 --&amp;gt; 7.0.0)" placeholders="1" rel_major="6" rel_minor="0" rel_service="0" dev_major="6" dev_minor="1" dev_service="1" lucidchartObjectId="fNpQgL.Gv-xd" id="gXJeCOJqX6-XGzdC3xa7-3">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#83bbe5;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="844" y="119" width="105" height="60" as="geometry" />
           </mxCell>
