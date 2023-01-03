@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-08-22T16:25:13.997Z" agent="5.0 (Macintosh)" etag="3_y1YwiRpFd_tmZYhxIi" version="20.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T15:24:35.377Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.2 Safari/605.1.15" etag="Bpk1uBdTBFZXYLdj7iMs" version="20.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1137" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1297" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="EventBUtils (0.2.6 --&amp;gt; 0.3.0)" lucidchartObjectId="4MpQ590b2zhA" id="gXJeCOJqX6-XGzdC3xa7-2">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#83bbe5;strokeWidth=1.5;" parent="1" vertex="1">
+        <UserObject label="EventBUtils&lt;br&gt;(0.3.0)" lucidchartObjectId="4MpQ590b2zhA" id="gXJeCOJqX6-XGzdC3xa7-2">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#b3d6ef;strokeWidth=1.5;strokeColor=#6c8ebf;" parent="1" vertex="1">
             <mxGeometry x="840" y="14" width="105" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="EMF_EventB&lt;br&gt;(6.1.0--&amp;gt; 7.0.0)" placeholders="1" rel_major="6" rel_minor="0" rel_service="0" dev_major="6" dev_minor="1" dev_service="1" lucidchartObjectId="fNpQgL.Gv-xd" id="gXJeCOJqX6-XGzdC3xa7-3">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#83bbe5;strokeWidth=1.5;" parent="1" vertex="1">
+        <UserObject label="EMF_EventB&lt;br&gt;(7.0.0)" placeholders="1" rel_major="6" rel_minor="0" rel_service="0" dev_major="6" dev_minor="1" dev_service="1" lucidchartObjectId="fNpQgL.Gv-xd" id="gXJeCOJqX6-XGzdC3xa7-3">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#b3d6ef;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="844" y="119" width="105" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="EMF_Translator (3.0.1 --&amp;gt; 4.0.0)" lucidchartObjectId="e5rQBIk2vacU" id="gXJeCOJqX6-XGzdC3xa7-4">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#83bbe5;strokeWidth=1.5;" parent="1" vertex="1">
+        <UserObject label="EMF_Translator (4.0.0)" lucidchartObjectId="e5rQBIk2vacU" id="gXJeCOJqX6-XGzdC3xa7-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#b3d6ef;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="563" y="135" width="105" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="EMF_EventB_Extensions (6.1.0 --&amp;gt; 7.0.0)" lucidchartObjectId="o-rQa49epSMn" id="gXJeCOJqX6-XGzdC3xa7-5">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#83bbe5;strokeWidth=1.5;" parent="1" vertex="1">
+        <UserObject label="EMF_EventB_Extensions (7.0.0)" lucidchartObjectId="o-rQa49epSMn" id="gXJeCOJqX6-XGzdC3xa7-5">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=13.3;fontColor=default;spacing=3.8;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=7.5;fillColor=#b3d6ef;strokeWidth=1.5;" parent="1" vertex="1">
             <mxGeometry x="263" y="270" width="158" height="60" as="geometry" />
           </mxCell>
         </UserObject>
