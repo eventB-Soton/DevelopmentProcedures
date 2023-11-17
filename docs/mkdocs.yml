@@ -30,11 +30,14 @@ plugins:
   - with-pdf                   # Generate PDF versions (for all languages)
   - search                     # Enable search
 
-site_description: CamilleX -- Rodin Platform extension for textual representation and composition
-site_author: Firstname Lastname     # FIXME
 
-# FIXME The link to the repository URL on GitHub. At the moment, 
+site_description: Documentation of some useful     # FIXME
+site_author: Firstname Lastname                    # FIXME
+
+# FIXME The link to the repository URL on GitHub. At the moment, it points to the CamilleX
 repo_url: https://eventB-soton.github.io/XEventB
+# FIXME The name of the reposotory corresponding the above URL
+repo_name: My Repository
 theme: material                # Use the standard material theme https://squidfunk.github.io/mkdocs-material/
 
 # Navigation: This need to be reflected for all languages.
